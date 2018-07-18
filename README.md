@@ -1,5 +1,3 @@
-# sessions
-
 # Express - Sessions
 
 ## Lesson Objectives
