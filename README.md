@@ -28,7 +28,7 @@ npm install express-session --save
 ```
 
 User Model
-```
+```javascript
 const mongoose = require('mongoose');
 
 const userSchema = new mongoose.Schema({
