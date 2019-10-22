@@ -105,7 +105,7 @@ router.get('/retrieve', (req, res) => { //any route will work
 
 1.  How do you test this to see if the code works.
 
-```
+```js
 router.get('/', (req, res) => {
   if(req.session.logged){
         Article.find({}, (err, foundArticles)=>{
